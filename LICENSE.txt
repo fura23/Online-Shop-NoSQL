@@ -1,0 +1,28 @@
+Copyright (c) 2026 Jakub Furmanek
+
+All rights reserved.
+
+Permission is hereby granted to any person obtaining a copy of this software to
+view, download, use, run, and privately modify it for personal, educational, and
+non-commercial purposes only.
+
+This permission does not include the right to:
+- redistribute, republish, sublicense, or share this software, whether in original
+  or modified form;
+- publish or distribute modified versions of this software;
+- sell, rent, license, or otherwise commercially exploit this software;
+- claim authorship, ownership, or any intellectual property rights in this software
+  or any part of it;
+- remove, alter, or hide this copyright notice;
+- incorporate this software or its code into another public, private, or commercial
+  project without prior written permission from the author.
+
+All copyright and ownership rights remain exclusively with the author.
+
+This software is provided "as is", without warranty of any kind, express or
+implied, including but not limited to the warranties of merchantability, fitness
+for a particular purpose, and noninfringement.
+
+In no event shall the author be liable for any claim, damages, or other liability,
+whether in an action of contract, tort, or otherwise, arising from, out of, or in
+connection with the software or the use or other dealings in the software.
