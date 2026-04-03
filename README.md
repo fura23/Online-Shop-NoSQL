@@ -20,8 +20,7 @@ Projekt zawiera wymagania na ocenę 5, czyli:
 
 ## Project Structure
 
-- `final.py` – główny plik projektu z implementacją i testami
-- `NoSQL_zadania_zaliczeniowe.pdf` – treść zadania
+- `nosql_online_store.py` – główny plik projektu z implementacją i testami
 - `README.md` – opis projektu
 
 ## Implemented Functions
